@@ -50,7 +50,7 @@ conda deactivate
 conda env remove -n ocr
 ```
 ------------------------------------------------------------------
-(2) 安裝 python 3.8 虛擬環境, 
+(2) 安裝 python 3.8 虛擬環境,<br/> 
     用 command line 執行:
 ```
 "0) create_conda_env_with_python_38.cmd" ocr
@@ -60,19 +60,19 @@ conda env remove -n ocr
 conda activate ocr
 ```
 ------------------------------------------------------------------
-(3) 安裝 pytorch
+(3) 安裝 pytorch,<br/>
     用 command line 執行:
 ```
 "1) pip install pytorch.cmd"
 ```
 ------------------------------------------------------------------
-(4) 安裝其他必要套件
+(4) 安裝其他必要套件,<br/>
     用 command line 執行:
 ```
 "2) pip install misc.cmd"
 ```
 ------------------------------------------------------------------
-(5) 安裝 Apple 模型套件
+(5) 安裝 Apple 模型套件,<br/>
     用 command line 執行:
 ```
 pip install EzOcrServer-2.2.1-py3-none-any.whl --force-reinstall
@@ -82,7 +82,7 @@ pip install EzOcrServer-2.2.1-py3-none-any.whl --force-reinstall
 pip install EzOcrServer-1.0.1-py3-none-any.whl --force-reinstall
 ```
 ------------------------------------------------------------------
-(6) 更新 Apple 訓練後參數檔,
+(6) 更新 Apple 訓練後參數檔,<br/>
     複製 model_files 裡面兩個資料夾, 
 
     model
@@ -103,7 +103,7 @@ http://download.jeteazy.com/LeTian/EzOcrAI/upgrade_ver_2.2.1/EzOcrClientDemo_C#.
 <br/>
 
 ------------------------------------------------------------------
-(1) 開啟 windows command line 視窗 (anaconda 專用的) 
+(1) 開啟 windows command line 視窗 (anaconda 專用的), 
     鍵入 以下指令:
 ```
 conda activate ocr
