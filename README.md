@@ -75,11 +75,11 @@ conda activate ocr
 (5) 安裝 Apple 模型套件
     用 command line 執行:
 ```
-pip install EzOcrServer-2.2.1-py3-none-any.whl
+pip install EzOcrServer-2.2.1-py3-none-any.whl --force-reinstall
 ```
 或是舊版 (ver 1.0.1)
 ```
-pip install EzOcrServer-1.0.1-py3-none-any.whl
+pip install EzOcrServer-1.0.1-py3-none-any.whl --force-reinstall
 ```
 ------------------------------------------------------------------
 (6) 更新 Apple 訓練後參數檔,
@@ -96,7 +96,7 @@ pip install EzOcrServer-1.0.1-py3-none-any.whl
 # 如何 【更新】 從 1.0.1 升級至 2.2.1
 (0) 下載以下檔案至暫存資料夾, <br/>
 
-http://download.jeteazy.com/LeTian/EzOcrAI/upgrade_ver_2.2.1/EzOcrServer-2.2.1-py3-none-any.whl
+http://download.jeteazy.com/LeTian/EzOcrAI/upgrade_ver_2.2.1/EzOcrServer-2.2.1-py3-none-any.whl.7z
 
 http://download.jeteazy.com/LeTian/EzOcrAI/upgrade_ver_2.2.1/EzOcrClientDemo_C#.7z
 
