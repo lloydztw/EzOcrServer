@@ -5,7 +5,8 @@
 [![LeTian FB](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/letian.chang)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lloydz.tw@gmail.com)
 
-OCR server written in pytorch
+蘋果 OCR 檢測 deep learning 套件<br>
+(OCR server written in pytorch)
 
 ------------------------------------------------------------------
 
@@ -125,4 +126,4 @@ pip install EzOcrServer-2.2.1-py3-none-any.whl --force-reinstall
 **[LeTian Chang](mailto:lloydz.tw@gmail.com)**
 <br/>
 
-![](https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.6435-9/94496580_3289259774417998_6021738680945737728_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=58aiZPHed7gAX_6vKw5&_nc_ht=scontent.fkhh1-2.fna&oh=00_AT8By9vZ7G_MIRGxsr_sPpJdVepuxVMk8szf0ts3L1U7Ig&oe=62FD3DAD)    
+![](https://lloydztw.github.io/mysite/myOpenCV/static/img/cat_amir.jpg)    
